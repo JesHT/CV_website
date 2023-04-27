@@ -1,0 +1,31 @@
+img {
+    height: 50px;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(237, 240, 242);
+    background-color:rgb(109, 165, 113);
+    background-image: url('P1130286.jpg');
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size:20px;
+    font-weight: bold;
+}
+
+main {
+    text-align: center;
+}
+a {
+    color: rgb(133, 184, 147);
+}
+
+nav {
+    background-color: rgba(104, 101, 101, 0.852);
+    
+}
